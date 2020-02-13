@@ -1,6 +1,6 @@
 ### Git Homework
 
-[The Importance of an Agile Business](https://medium.com/@CATechnologies/the-importance-of-an-agile-business-54146ba8b6c0)
+Link: [The Importance of an Agile Business](https://medium.com/@CATechnologies/the-importance-of-an-agile-business-54146ba8b6c0)
 
 This is an article that I wish all members of a Scrum Team could understand. Often times, the engineering team and QA team at my job does not understand the importance of Agile, and why it can be beneficial on the development and implementation of features. Many complain about the unnecessity of daily stand-ups and continual changing requirements, yet they do not understand that this is all part of an iterative process--"The ability to be agile, adapting quickly and responding fast to new and changing demands is imperative to modern software development and delivery". The article discusses the creation of culture of trust and cooperation, which seems to be lacking in some young start-ups. Designers, engineers, and QA analysts are always welcome to challenge the product manager their requirements and acceptance criteria, but should trust that the product team has set a basic foundation for the team to get started, but as meetings with stakeholders and other coworkers pile up, requirements will change as one feature may touch a breadth of teams, third-parties, and end-users. 
 
